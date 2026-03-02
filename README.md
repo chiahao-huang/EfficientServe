@@ -2,6 +2,22 @@
 
 A Large Model Inference Service System for Hybrid Application Scenarios
 
+## Overview
+
+<img width="642" height="339" alt="image-20260302222436258" src="https://github.com/user-attachments/assets/aefa35e7-19ea-43b0-aa53-ff877b2e8c8b" />
+
+## Components
+
+### Embedding-Based Iterative Length Prediction
+
+<img width="420" height="208" alt="image-20260302221929499" src="https://github.com/user-attachments/assets/81c86381-62e2-4dda-aff3-022b9f25905c" />
+
+### Adaptive Dynamic Cache Allocation Mechanism
+
+<img width="364" height="287" alt="image-20260302221958181" src="https://github.com/user-attachments/assets/f857256e-49e5-4ee1-a058-d428432507b8" />
+
+### QoS-Aware Task Scheduling
+
 ## How to start
 
 1. Install vLLM properly. For installation instructions, refer to: https://docs.vllm.ai/en/latest/getting_started/installation/gpu/
