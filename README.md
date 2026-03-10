@@ -14,7 +14,8 @@ EfficientServe: QoS-Guaranteed LLM Serving for Mixed Downstream Workloads
 
 ### Adaptive Dynamic Cache Allocation Mechanism
 
-<img width="364" height="287" alt="image-20260302221958181" src="https://github.com/user-attachments/assets/f857256e-49e5-4ee1-a058-d428432507b8" />
+<img width="357" height="252" alt="image" src="https://github.com/user-attachments/assets/2a71260b-85f2-42e7-bec6-ebabe420db08" />
+
 
 ### QoS-Aware Task Scheduling
 
