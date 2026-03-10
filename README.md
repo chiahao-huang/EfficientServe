@@ -1,6 +1,6 @@
 # EfficientServe
 
-A Large Model Inference Service System for Hybrid Application Scenarios
+EfficientServe: QoS-Guaranteed LLM Serving for Mixed Downstream Workloads
 
 ## Overview
 
